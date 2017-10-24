@@ -24,6 +24,8 @@ function submitIt() {
       alert("");
       return;
     }
+    alert("you entered the wrong value");
+    return;
   })
 }
 
